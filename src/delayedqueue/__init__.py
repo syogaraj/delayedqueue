@@ -14,3 +14,8 @@ except PackageNotFoundError:  # pragma: no cover
     __version__ = "unknown"
 finally:
     del version, PackageNotFoundError
+
+
+from delayedqueue.delayedqueue import DelayedQueue
+
+__all__ = ["DelayedQueue"]
