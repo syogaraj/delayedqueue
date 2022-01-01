@@ -10,9 +10,6 @@
     .. image:: https://img.shields.io/coveralls/github/<USER>/delayedqueue/main.svg
         :alt: Coveralls
         :target: https://coveralls.io/r/<USER>/delayedqueue
-    .. image:: https://img.shields.io/pypi/v/delayedqueue.svg
-        :alt: PyPI-Server
-        :target: https://pypi.org/project/delayedqueue/
     .. image:: https://img.shields.io/conda/vn/conda-forge/delayedqueue.svg
         :alt: Conda-Forge
         :target: https://anaconda.org/conda-forge/delayedqueue
@@ -27,17 +24,17 @@
     :alt: Project generated with PyScaffold
     :target: https://pyscaffold.org/
 
-|
+.. image:: https://img.shields.io/pypi/v/delayedqueue.svg
+   :alt: PyPI-Server
+   :target: https://pypi.org/project/delayedqueue/
 
 ============
 delayedqueue
 ============
 
 
-    Add a short description here!
+    Delay Queue Implementation in Python
 
-
-A longer description of your project goes here...
 
 
 .. _pyscaffold-notes:
