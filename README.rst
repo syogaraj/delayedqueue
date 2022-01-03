@@ -39,7 +39,8 @@ delayedqueue
 Usage
 ----
 
-Example::
+.. code-block::
+
    from delayedqueue import DelayedQueue
    delay_queue = DelayedQueue()
    delay_queue.put("an item", 30)
