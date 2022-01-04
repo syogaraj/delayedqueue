@@ -24,4 +24,4 @@ class DelayedQueueItem:
         return self.item == other.item and self.delay == other.delay and self.target_time == other.target_time
 
     def __repr__(self) -> str:
-        return f"""(Item: {self.item}, Delay: {self.delay}, Time Func: {self.time_func}, Next Execution Time: {self.target_time}"""
+        return f"""(Item: {self.item}, Delay: {self.delay}, Time Func: {self.time_func}, Next Execution Time: {self.target_time})"""
